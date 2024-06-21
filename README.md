@@ -48,7 +48,7 @@ The output of the document scanner includes:
 2. Threshold Image: Image after preprocessing steps like Gaussian blur and Canny edge detection.
 <img src="Threshold_Image.jpg" alt="Alt Text" width="400" height="600">
 3. Warped Image: Top-down view of the detected document after perspective transformation.
-4. <img src="Warped_Image.jpg" alt="Alt Text" width="400" height="600">
+<img src="Warped_Image.jpg" alt="Alt Text" width="400" height="600">
 5. Cropped Image: Final result after cropping the warped image to remove excess borders.
 <img src="Cropped_Image.jpg" alt="Alt Text" width="400" height="600">
 
